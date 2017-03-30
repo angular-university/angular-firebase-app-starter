@@ -1,10 +1,10 @@
-import { HelloWorldPage } from './app.po';
+import { Ng4CliPage } from './app.po';
 
-describe('hello-world App', function() {
-  let page: HelloWorldPage;
+describe('ng4-cli App', () => {
+  let page: Ng4CliPage;
 
   beforeEach(() => {
-    page = new HelloWorldPage();
+    page = new Ng4CliPage();
   });
 
   it('should display message saying app works', () => {
