@@ -1,5 +1,4 @@
 
-import {AuthMethods, AuthProviders} from "angularfire2";
 
 export const firebaseConfig = {
     apiKey: "AIzaSyA0BcUcu4V8aHT_gM-32BhRcmqji4z-lts",
@@ -11,7 +10,3 @@ export const firebaseConfig = {
 
 
 
-export const authConfig = {
-    provider: AuthProviders.Password,
-    method: AuthMethods.Password
-};
