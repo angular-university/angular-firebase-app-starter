@@ -8,11 +8,11 @@ This course repository is updated to Angular 6, there is a Yarn lock file availa
 ![Angular firebase course](https://angular-academy.s3.amazonaws.com/thumbnails/angular_app-firebase-small.jpg)
 
 
-# Looking for the full application repo ? 
+# Looking for the full application repo? 
 
 If you are looking for a repository containing the full application that is built during the course, please check this [repository](https://github.com/angular-university/angular-firebase-app) instead.
 
-# Which Course are You Looking For ?
+# Which Course are You Looking For?
 
 Below is a list of the Angular University courses:
 
