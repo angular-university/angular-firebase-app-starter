@@ -1,3 +1,6 @@
+# Important
+
+This course is now archived and has been replaced with the [Serverless Angular with Firebase & AngularFire Course](https://github.com/angular-university/firebase-course).
 
 # Repository contents
 
